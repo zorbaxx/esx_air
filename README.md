@@ -1,6 +1,9 @@
 # esx_air
 ESX Air is a script created to be able to configure aircraft and helicopter dealerships in a simple way.
 
+# Discord
+Discord Invite: https://www.discord.io/desordenrp
+
 ## Requirements
 - [esx_vehicleshop](https://github.com/ESX-Org/esx_vehicleshop)
 
