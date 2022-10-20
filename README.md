@@ -18,7 +18,7 @@ ensure esx_air
 
 # Legal
 ### License
-ESX_air - Planes and Helicopters script
+ESX_Air - Planes and Helicopters script
 
 Copyright (C) 2022 Zorbax
 
