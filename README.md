@@ -5,7 +5,7 @@ ESX Air is a script created to be able to configure aircraft and helicopter deal
 - [esx_vehicleshop](https://github.com/ESX-Org/esx_vehicleshop)
 
 ### Manually
-- Download https://github.com/ESX-Org/esx_air/archive/master.zip
+- Download https://github.com/zorbaxx/esx_air
 - Put it in the `[esx]` directory
 
 ## Installation
